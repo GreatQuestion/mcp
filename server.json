@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.greatquestion/mcp",
+  "title": "Great Question",
+  "description": "Run user research from any AI tool. Create studies, recruit participants, and query insights from your Great Question repository directly inside Claude, ChatGPT, Cursor, and any MCP-compatible client.",
+  "websiteUrl": "https://greatquestion.co/features/mcp-integration",
+  "repository": {
+    "url": "https://github.com/GreatQuestion/mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://greatquestion.co/api/mcp/v1"
+    }
+  ]
+}
