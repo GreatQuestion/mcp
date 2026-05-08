@@ -3,6 +3,7 @@
   "name": "io.github.GreatQuestion/mcp",
   "title": "Great Question",
   "description": "Run user research from any AI tool. Create studies, recruit participants, query insights.",
+  "websiteUrl": "https://greatquestion.co/features/mcp-integration",
   "repository": {
     "url": "https://github.com/GreatQuestion/mcp",
     "source": "github"
