@@ -1,6 +1,6 @@
 # Great Question MCP Server
 
-<!-- mcp-name: io.github.greatquestion/mcp -->
+<!-- mcp-name: io.github.GreatQuestion/mcp -->
 
 Run user research from any AI tool. The official Model Context Protocol (MCP) server for [Great Question](https://greatquestion.co) — the AI UX research platform for product builders.
 
